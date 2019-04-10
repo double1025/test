@@ -7,5 +7,10 @@
             "email": "459624123@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "test\\": "src/"
+        }
+    },
 }
