@@ -1,0 +1,11 @@
+{
+    "name": "x/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "double1025",
+            "email": "459624123@qq.com"
+        }
+    ],
+    "require": {}
+}
